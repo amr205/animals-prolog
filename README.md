@@ -2,6 +2,8 @@
 
 This is an application that uses tau prolog to implement a simple expert system about animal characteristics
 
+[ See it in action ](https://amr205.github.io/animals-prolog/)
+
 ## About Animals prolog
 
 The original program and knowledgebase was created using only swi-prolog by Alejandro Medina Reyes, Carlos Escudero Mercado, Ana Paulina Mares Cupa and Itzel Calderón Guzmán.
